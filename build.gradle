@@ -33,6 +33,7 @@ dependencies {
 
 	// Fabric API. This is technically optional, but you probably want it anyway.
 	//modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
+	//modImplementation(fileTree(dir: "libs", include: ["*.jar"]))
 	include(modImplementation(":fabric-api-base:0.4.62+73a52b4b49"))
 	include(modImplementation(":temporal-stability:3.1.6+local"))
 }

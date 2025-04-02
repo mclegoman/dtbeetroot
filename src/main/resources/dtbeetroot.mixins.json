@@ -3,7 +3,8 @@
 	"package": "com.mclegoman.dtbeetroot.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"CropBlockMixin",
+		"BeetrootBlockMixin",
+		"BlockItemMixin",
 		"ItemsMixin",
 		"LogoDrawerMixin",
 		"PlayerUnlocksMixin",

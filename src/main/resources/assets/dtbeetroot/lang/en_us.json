@@ -74,9 +74,11 @@
 
 	"world.effect.dtbeetroot_beetroot.name": "Beetroot World",
 	"world.effect.dtbeetroot_beetroot.description": "The world is made of Beetroot",
+	"world.effect.dtbeetroot_beetroot.hint": "Harvest some beetroot!",
 
 	"world.effect.dtbeetroot_parkour.name": "Parkour World",
 	"world.effect.dtbeetroot_parkour.description": "Will you jump for the beetroot?",
+	"world.effect.dtbeetroot_parkour.hint": "+10 jump",
 
 	"item.dtbeetroot.golden_beetroot": "Golden Beetroot",
 
