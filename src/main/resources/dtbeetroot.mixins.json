@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "com.mclegoman.dtbeetroot.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"CropBlockMixin",
+		"ItemsMixin",
+		"LogoDrawerMixin",
+		"PlayerUnlocksMixin",
+		"WorldEffectsMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

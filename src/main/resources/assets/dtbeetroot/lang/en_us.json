@@ -1,0 +1,94 @@
+{
+	"unlocks.unlock.dtbeetroot_beetroot.name": "Beetroot",
+	"unlocks.unlock.dtbeetroot_beetroot.description": "I heard you like beetroot",
+
+	"unlocks.unlock.dtbeetroot_better_beetroot.name": "Better Beetroot",
+	"unlocks.unlock.dtbeetroot_better_beetroot.description": "more equals better right?",
+
+	"unlocks.unlock.dtbeetroot_golden_beetroot.name": "Golden Beetroot",
+	"unlocks.unlock.dtbeetroot_golden_beetroot.description": "You can't resist this",
+	"unlocks.unlock.dtbeetroot_golden_beetroot.hint": "Have you ever tried to cover beetroot in gold?",
+
+	"unlocks.unlock.dtbeetroot_better_golden_beetroot.name": "Lifetime Beetroot Supply",
+	"unlocks.unlock.dtbeetroot_better_golden_beetroot.description": "Stop world hunger",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot.name": "Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot.description": "twice the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_2.name": "More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_2.description": "four times the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_3.name": "More More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_3.description": "six times the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_4.name": "More More More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_4.description": "eight times the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_5.name": "More More More More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_5.description": "ten times the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_6.name": "More More More More More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_6.description": "twelve times the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_7.name": "More More More More More More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_7.description": "fourteen times the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_8.name": "More More More More More More More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_8.description": "sixteen times the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_9.name": "More More More More More More More More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_9.description": "eighteen times the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_10.name": "More More More More More More More More More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_10.description": "twenty times the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_11.name": "More More More More More More More More More More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_11.description": "twenty two times the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_12.name": "More More More More More More More More More More More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_12.description": "twenty four times the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_13.name": "More More More More More More More More More More More More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_13.description": "twenty six times the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_14.name": "More More More More More More More More More More More More More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_14.description": "twenty eight times the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_15.name": "More More More More More More More More More More More More More More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_15.description": "thirty times the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_16.name": "More More More More More More More More More More More More More More More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_16.description": "thirty two times the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_17.name": "More More More More More More More More More More More More More More More More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_17.description": "thirty four times the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_18.name": "More More More More More More More More More More More More More More More More More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_18.description": "thirty six times the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_19.name": "More More More More More More More More More More More More More More More More More More Profitable Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_19.description": "all the beetroot profits",
+
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_20.name": "World's Most Expensive Beetroot",
+	"unlocks.unlock.dtbeetroot_profitable_beetroot_20.description": "Who's useless now huh",
+
+	"world.effect.dtbeetroot_beetroot.name": "Beetroot World",
+	"world.effect.dtbeetroot_beetroot.description": "The world is made of Beetroot",
+
+	"world.effect.dtbeetroot_parkour.name": "Parkour World",
+	"world.effect.dtbeetroot_parkour.description": "Will you jump for the beetroot?",
+
+	"item.dtbeetroot.golden_beetroot": "Golden Beetroot",
+
+	"advancements.dtbeetroot.complete_beetroot.title": "The world was your beetroot",
+	"advancements.dtbeetroot.complete_beetroot.description": "Beat a Mine with the 'Beetroot World' effect active",
+
+	"advancements.dtbeetroot.unlock_beetroot.title": "The world's your beetroot",
+	"advancements.dtbeetroot.unlock_beetroot.description": "Begin your beetroot journey",
+
+	"advancements.dtbeetroot.unlock_better_beetroot.title": "The Best Beetroot",
+	"advancements.dtbeetroot.unlock_better_beetroot.description": "Complete the 'Better Beetroot' Player Unlock tree",
+
+	"advancements.dtbeetroot.unlock_stonks.title": "STONKS",
+	"advancements.dtbeetroot.unlock_stonks.description": "Complete the 'Profitable Beetroot' Player Unlock tree"
+}

@@ -1,0 +1,44 @@
+{
+  "parent": "dtbeetroot:unlock_beetroot",
+  "criteria": {
+    "complete_level": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "effects": [
+                  "dtbeetroot:beetroot"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:level_completed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.dtbeetroot.complete_beetroot.description"
+    },
+    "hint": {
+      "translate": "advancements.dtbeetroot.complete_beetroot.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:beetroot"
+    },
+    "title": {
+      "translate": "advancements.dtbeetroot.complete_beetroot.title"
+    }
+  },
+  "requirements": [
+    [
+      "complete_level"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

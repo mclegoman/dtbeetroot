@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "dtbeetroot",
+	"version": "${version}",
+	"name": "Beetroot Edition",
+	"description": "",
+	"authors": [
+		"dannytaylor"
+	],
+	"contact": {
+		"sources": "https://github.com/mclegoman/dtbeetroot"
+	},
+	"license": "LGPL-3.0-or-later",
+	"icon": "assets/dtbeetroot/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.mclegoman.dtbeetroot.BeetrootEdition"
+		]
+	},
+	"mixins": [
+		"dtbeetroot.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.11",
+		"minecraft": "1.21.6-alpha.25.14.craftmine",
+		"java": ">=21",
+		"fabric-resource-loader-v0": "*"
+	},
+	"accessWidener" : "dtbeetroot.accesswidener"
+}

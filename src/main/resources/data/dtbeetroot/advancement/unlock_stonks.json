@@ -1,0 +1,49 @@
+{
+  "parent": "dtbeetroot:unlock_beetroot",
+  "criteria": {
+    "player_unlock_bought": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "dtbeetroot:profitable_beetroot_20"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_unlock_bought"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.dtbeetroot.unlock_stonks.description"
+    },
+    "frame": "challenge",
+    "hint": {
+      "translate": "advancements.dtbeetroot.unlock_stonks.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "dtbeetroot:golden_beetroot"
+    },
+    "title": {
+      "translate": "advancements.dtbeetroot.unlock_stonks.title"
+    }
+  },
+  "requirements": [
+    [
+      "player_unlock_bought"
+    ]
+  ],
+  "sends_telemetry_event": false
+}
