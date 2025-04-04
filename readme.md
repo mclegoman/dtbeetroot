@@ -9,6 +9,7 @@ Blame Judge.
 
 #  
 Made for [FlashFest: Craftmine](https://modfest.net/ff25)  
+Also check out [Space Update](https://github.com/mclegoman/dtaf2025)!  
 
 Licensed under LGPL-3.0-or-later.  
 
