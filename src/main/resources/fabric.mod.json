@@ -22,10 +22,10 @@
 		"dtbeetroot.mixins.json"
 	],
 	"depends": {
-		"fabricloader": ">=0.16.11",
+		"fabricloader": ">=0.16.12",
 		"minecraft": "1.21.6-alpha.25.14.craftmine",
 		"java": ">=21",
-		"fabric-resource-loader-v0": "*"
+		"fabric": "~0.119.8+25w14craftmine"
 	},
 	"accessWidener" : "dtbeetroot.accesswidener"
 }

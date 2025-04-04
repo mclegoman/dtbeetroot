@@ -5,10 +5,7 @@
 	"mixins": [
 		"BeetrootBlockMixin",
 		"BlockItemMixin",
-		"ItemsMixin",
-		"LogoDrawerMixin",
-		"PlayerUnlocksMixin",
-		"WorldEffectsMixin"
+		"LogoDrawerMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
